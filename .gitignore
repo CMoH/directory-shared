@@ -1,0 +1,31 @@
+# usual maven artifacts                                                                                                                                                                        
+target/                                                                                                                                                                                        
+pom.xml.tag                                                                                                                                                                                    
+pom.xml.releaseBackup                                                                                                                                                                          
+pom.xml.versionsBackup                                                                                                                                                                         
+pom.xml.next                                                                                                                                                                                   
+release.properties                                                                                                                                                                             
+dependency-reduced-pom.xml                                                                                                                                                                     
+buildNumber.properties
+.mvn/timing.properties
+
+# not sure why these get generated outside maven's target folder
+asn1/api/META-INF/
+asn1/ber/META-INF/
+dsml/engine/META-INF/
+dsml/parser/META-INF/
+i18n/META-INF/
+ldap/client/api/META-INF/
+ldap/codec/core/META-INF/
+ldap/extras/aci/META-INF/
+ldap/extras/codec-api/META-INF/
+ldap/extras/codec/META-INF/
+ldap/extras/sp/META-INF/
+ldap/extras/trigger/META-INF/
+ldap/extras/util/META-INF/
+ldap/model/META-INF/
+ldap/net/mina/META-INF/
+ldap/schema/converter/META-INF/
+ldap/schema/data/META-INF/
+util/META-INF/
+
